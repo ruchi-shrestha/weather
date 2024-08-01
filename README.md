@@ -1,3 +1,4 @@
+#Weather App
 This is a dummy weather app project that checks in weather of a city. 
 API used from https://openweathermap.org/
 
